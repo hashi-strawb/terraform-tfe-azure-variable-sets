@@ -18,8 +18,5 @@ export ARM_DISPLAY_NAME=
 # Name of your TFC Org
 export TFC_ORG=
 
-# Name of the Variable set you want
-export TFC_VARSET_NAME=
-
-# Comma separated list of IDs of workspaces
-export WORKSPACE_IDS=
+# ID of the Variable set you want to use
+export TFC_VARSET_ID=
